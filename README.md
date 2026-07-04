@@ -136,5 +136,5 @@ Various experiments and performance evaluations were carried out, including:
 
 - 🌍 **Website:** https://safespark-34tilip.gamma.site/
 - 📊 **Pitch Deck:** https://canva.link/o5wafgyyv6uvfmu
-- 🎥 **Demo Video:** https://your-demo-video-link
+- 🎥 **Demo Video:** https://youtu.be/sxuaxshyZN0?si=lAwPzX4m4FZiPq2x
 - 💻 **GitHub Repository:** https://github.com/atharvaranjan007/Safe-Spark-
